@@ -7,12 +7,12 @@
 }
 
 :root {
-    --bkg: #2a6438;
-    --dark: #666283444;
+    --bkg: #2a2438;
+    --dark: #352f44;
     --text: #fff;
-    --accent: #4413c1;
-    --ovr: #170736;
-    --judul: #a79f9f;
+    --accent: #5c5470;
+    --ovr: #48278b;
+    --judul: #3d0000;
 }
 
 body {
